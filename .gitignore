@@ -1,9 +1,1 @@
-node_modules/
-dist/
-.env
-.env.local
-coverage/
-*.log
-node_modules/
-dist/
-.env
+node_modules
