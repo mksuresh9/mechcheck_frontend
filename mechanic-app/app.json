@@ -1,0 +1,9 @@
+{
+  "expo": {
+    "name": "MechCheck Mechanic",
+    "slug": "mechcheck-mechanic",
+    "version": "1.0.0",
+    "sdkVersion": "48.0.0",
+    "platforms": ["ios", "android", "web"]
+  }
+}
